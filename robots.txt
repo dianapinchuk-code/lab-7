@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://courtly-booking.vercel.app/sitemap.xml
+Sitemap: https://dianapinchuk-code.github.io/lab-7/sitemap.xml
